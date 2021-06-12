@@ -1,5 +1,4 @@
 ```java
-// Singleton Me
 class Me {
 
     private static Me me = new Me();
