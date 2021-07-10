@@ -15,9 +15,5 @@ class Me {
         return me;
     }
     
-    public int getAge() {
-        return Calendar.getInstance().get(Calendar.YEAR) - 1999;
-    }
-    
 }
 ```
